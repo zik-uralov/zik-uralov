@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 [![Project Demo](https://img.youtube.com/vi/Zylmox_laxE/0.jpg)](https://www.youtube.com/watch?v=Zylmox_laxE)
 
 [![Project Demo](https://img.youtube.com/vi/GrleXLI4_TE/0.jpg)](https://www.youtube.com/watch?v=GrleXLI4_TE)
 
+-->
