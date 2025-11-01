@@ -32,7 +32,7 @@ to Node.js servers, Raspberry Pi prototypes, and creative AI tools.
 - 📊 Data Analysis & Visualization → Python (pandas, NumPy, matplotlib), SQL  
 - 🤖 AI & Automation → local LLMs (Ollama, DeepSeek, Mistral), QA copilots, data agents  
 - 🧱 Engineering → WebRTC chat apps, custom keyboard extensions, IoT builds  
-- 🎨 Creative Projects → VSYO Studio | UniqOdd | Tribrata Stroy  
+- 🎨 Creative Projects → 
 
 ---
 
