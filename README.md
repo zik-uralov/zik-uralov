@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 -->
 # Data • Code • Network
-
-**Engineer · Data Analyst · Builder of odd beautiful things**
-
 I explore the space where **data meets imagination** — from Python analytics and LLM automation  
 to Node.js servers, Raspberry Pi prototypes, and creative AI tools.
 
